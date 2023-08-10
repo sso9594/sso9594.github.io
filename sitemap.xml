@@ -12,6 +12,8 @@
     
   
     
+  
+    
       <url>
             <loc>https://sso9594.github.io/blog/jwt_login/</loc>
             <lastmod>2023-08-10T22:19:23+09:00</lastmod>
@@ -30,6 +32,12 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
             <loc>https://sso9594.github.io/blog/first/</loc>
             <lastmod>2023-08-10T22:17:10+09:00</lastmod>
@@ -42,6 +50,12 @@
   
     
   
+    
+      <url>
+            <loc>https://sso9594.github.io/project/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
