@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>https://sso9594.github.io/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 seungyong</copyright>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sso9594.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://sso9594.github.io/tags/about/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sso9594.github.io/tags/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://sso9594.github.io/tags/first/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sso9594.github.io/tags/first/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://sso9594.github.io/tags/new/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sso9594.github.io/tags/new/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://sso9594.github.io/tags/welcome/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sso9594.github.io/tags/welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
