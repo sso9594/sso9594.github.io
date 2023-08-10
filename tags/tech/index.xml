@@ -15,7 +15,7 @@
       
       <guid>https://sso9594.github.io/blog/jwt_login/</guid>
       <description>JWT 토큰 기반 로그인 인증 시스템 # JWT란 무엇인가?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sso9594.github.io/blog/jwt_login/featured.png" />
     </item>
     
   </channel>
